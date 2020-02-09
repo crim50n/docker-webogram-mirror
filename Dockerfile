@@ -1,6 +1,6 @@
 FROM nginx:alpine
 
-LABEL maintainer="seedgou <seedgou@gmail.com>"
+LABEL maintainer="crims0n <crims0n@ya.ru>"
 
 RUN apk --no-cache add unzip wget \
     && wget https://github.com/crim50n/docker-webogram-mirror/raw/master/webogram_v0.7.0.zip \
