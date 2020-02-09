@@ -3,7 +3,7 @@ A docker image to create telegram web mirror in one step.
 
 ## Usage
 ``` bash
-$ docker run -d -p 80:80 seedgou/telegram-mirror
+$ docker run -d -p 80:80 crims0n/webogram-mirror
 ```
 
 ## Known issue
